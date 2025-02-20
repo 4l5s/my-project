@@ -1,0 +1,455 @@
+[
+    {
+      "id": 0,
+      "img": "img/product/offers/product1.jpg",
+      "img_hover": "img/product/offers/product-1.jpg",
+      "name": "Apple iPhone 11, US Version, 256GB, Red for AT&T (Renewed)",
+      "price": 189,
+      "old_price": 219,
+      "category": "phones",
+      "rating": 4.3,
+      "availability": "In stock",
+      "sku": "iPhone 11 Red 256GB: £180, Debenhams Plus",
+      "description":"Brand\tApple\nOperating System\tiOS\nMemory Storage Capacity\t64 GB\nScreen Size\t6.1 Inches\nModel Name\tApple iPhone 12\nWireless Carrier\tAT&T\nConnectivity Technology\tWi-Fi\nColor\tRed\nWireless network technology\tGSM, Wi-Fi, CDMA, LTE\nSIM card slot count\tDual SIM",
+      "stock_left": 58,
+      "images": [
+        "img/product/Items_details/offers/iphone 11/front.jpg",
+        "img/product/Items_details/offers/iphone 11/back.jpg",
+        "img/product/Items_details/offers/iphone 11/side.jpg",
+        "img/product/Items_details/offers/iphone 11/all side.jpg"
+      ]
+    },
+    {
+      "id": 1,
+      "img": "img/product/offers/product2.jpg",
+      "img_hover": "img/product/offers/product-2.jpg",
+      "name": "Samsung Galaxy S9+, 64GB GSM Unlocked 4G LTE Smartphone",
+      "price": 150,
+      "old_price": 200,
+      "category": "phones",
+      "rating": 4.0,
+      "availability": "In stock",
+      "sku": "Samsung S9+ 64GB: £119.09, Debenhams Plus",
+      "description":"Brand\tSAMSUNG\nOperating System\tAndroid 8.0\nRam Memory Installed Size\t4 GB\nCPU Model\tSnapdragon\nMemory Storage Capacity\t64 GB\nScreen Size\t5.8 Inches\nResolution\t1440 x 2960\nModel Name\tGalaxy S9\nWireless Carrier\tUnlocked\nCellular Technology\tLTE",
+      "stock_left": 88,
+      "images": [
+        "img/product/Items_details/offers/s9/front.jpg",
+        "img/product/Items_details/offers/s9/back.jpg",
+        "img/product/Items_details/offers/s9/side.jpg",
+        "img/product/Items_details/offers/s9/all side.jpg"
+      ]
+    },
+    {
+      "id": 2,
+      "img": "img/product/offers/product3.jpg",
+      "img_hover": "img/product/offers/product-3.jpg",
+      "name": "VIZIO 40-inch Full HD 1080p Smart TV with DTS Virtual: X, Alexa Compatibility, Google Cast Built-in, Bluetooth Headphone Capable.",
+      "price": 100,
+      "old_price": 131,
+      "rating": 4.5,
+      "availability": "In stock",
+      "sku": "VIZIO 40-inch: £104.01, Debenhams Plus",
+      "description":"Screen Size\t40 Inches\nBrand\tVIZIO\nDisplay Technology\tLED\nResolution\t1080p\nRefresh Rate\t60 Hz\nSpecial Feature\tBuilt-in apps with VIZIO Home, Apple AirPlay, Voice Assistance Integration, ThinFrame Design, Hundreds of free channels.",
+      "stock_left": 76,
+      "images": [
+        "img/product/Items_details/offers/Tv/front.jpg",
+        "img/product/Items_details/offers/Tv/back.jpg",
+        "img/product/Items_details/offers/Tv/right.jpg",
+        "img/product/Items_details/offers/Tv/left.jpg"
+      ]
+    },
+    {
+      "id": 3,
+      "img": "img/product/offers/product4.jpg",
+      "img_hover": "img/product/offers/product-4.jpg",
+      "name": "AIAIAI TMA-2 Move XE Wireless Bluetooth 5.0 Connectivity with +40h Playback, Black",
+      "price": 75,
+      "old_price": 100,
+      "rating": 4.2,
+      "availability": "In stock",
+      "sku": "Headphone master: £103.22, Debenhams Plus",
+      "description":"Signature AIAIAI bio-diaphragm speaker tuned for clarity and detail.\nLightweight design and REPREVE cushions.\nBluetooth 5.0 connectivity with +40h playback time.\nIntuitive multi-functional joystick controls.\nResponsible modular headphones - designed to last.",
+      "stock_left": 66,
+      "images": [
+        "img/product/Items_details/offers/headphone/front.jpg",
+        "img/product/Items_details/offers/headphone/side1.jpg",
+        "img/product/Items_details/offers/headphone/side.jpg",
+        "img/product/Items_details/offers/headphone/all side.jpg"
+      ]
+    },
+    {
+      "id": 4,
+      "img": "img/product/offers/product5.jpg",
+      "img_hover": "img/product/offers/product-5.jpg",
+      "name": "Beats Studio Buds - True Wireless Noise Cancelling Earbuds - Compatible with Apple & Android, Built-in Microphone, IPX4 Rati",
+      "price": 59.99,
+      "old_price": 70.96,
+      "rating": 4.1,
+      "availability": "In stock",
+      "sku": "Sephia SP3060 : £7.93, Debenhams Plus",
+      "description": "Custom acoustic platform delivers powerful, balanced sound\nControl your sound with two distinct listening modes: Active Noise Cancelling (ANC) and Transparency mode\nThree soft ear tip sizes for a stable and comfortable fit while ensuring an optimum acoustic seal\nUp to 8 hours of listening time (up to 24 hours combined with pocket-sized charging case)\nIndustry-leading Class 1 Bluetooth for extended range and fewer dropouts\nHigh-quality call performance and voice assistant interaction via built-in microphones\nIPX4-rated sweat- and water-resistant wireless earbuds",
+      "stock_left": 78,
+      "images": [
+        "img/product/Items_details/offers/buds/close.jpg",
+        "img/product/Items_details/offers/buds/front.jpg",
+        "img/product/Items_details/offers/buds/open.jpg",
+        "img/product/Items_details/offers/buds/alone.jpg"
+      ]
+    },
+    {
+      "id": 5,
+      "img": "img/product/offers/product7.jpg",
+      "img_hover": "img/product/offers/product-7.jpg",
+      "name": "Xiaomi Redmi Note 13 5G + 4G LTE (for Tmobile) (256GB + 8GB) 108MP",
+      "price": 225,
+      "old_price": 280,
+      "category": "phones",
+      "rating": 4.3,
+      "availability": "In stock",
+      "sku": "Xiaomi Redmi Note 13 : £178.64, Debenhams Plus",
+      "description": "Brand\tXiaomi\nOperating System\tMIUI 14\nRam Memory Installed Size\t8 GB\nCPU Model\tOthers\nCPU Speed\t3.4 GHz\nMemory Storage Capacity\t256 GB\nScreen Size\t6.67 Inches\nResolution\t2400 x 1080\nModel Name\tNote 13 5G\nWireless Carrier\tUnlocked",
+      "stock_left": 46,
+      "images": [
+        "img/product/Items_details/offers/redmi note 13/front.jpg",
+        "img/product/Items_details/offers/redmi note 13/back.jpg",
+        "img/product/Items_details/offers/redmi note 13/side.jpg",
+        "img/product/Items_details/offers/redmi note 13/all side.jpg"
+      ]
+    },
+    {
+      "id": 6,
+      "img": "img/product/offers/product8.jpg",
+      "img_hover": "img/product/offers/product-8.jpg",
+      "name": "Apple Watch Series 7 Smart Watch Aluminum Case with Sport Band",
+      "price": 429,
+      "old_price": 479,
+      "rating": 4.6,
+      "availability": "In stock",
+      "sku": "Apple Watch Series 7: £340.61, Apple Store",
+      "description": "Brand\tApple\nOperating System\twatchOS\nCase Material\tAluminum\nBand Material\tFluoroelastomer\nDisplay Size\t41 mm\nScreen Type\tRetina LTPO OLED\nWireless Carrier\tUnlocked\nConnectivity Technology\tWi-Fi, Bluetooth, NFC\nColor\tMidnight\nBattery Life\tUp to 18 hours\nWater Resistance\t50 meters",
+      "stock_left": 30,
+      "images": [
+        "img/product/Items_details/offers/apple series 7/front.jpg",
+        "img/product/Items_details/offers/apple series 7/side1.jpg",
+        "img/product/Items_details/offers/apple series 7/side2.jpg",
+        "img/product/Items_details/offers/apple series 7/side3.jpg"
+      ]
+    },
+    {
+      "id": 7,
+      "img": "img/product/Copmuter& Desktop/product1.jpg",
+      "img_hover": "img/product/Copmuter& Desktop/product-1.jpg",
+      "name": "Acer Nitro V Gaming Laptop | Intel Core i5-13420H Processor | NVIDIA GeForce RTX 4050 Laptop GPU | 15.6' FHD IPS 144Hz Display",
+      "price": 699.99,
+      "old_price": null,
+      "category": "computer",
+      "rating": 4.7,
+      "availability": "In stock",
+      "sku": "Acer Nitro V, Black",
+      "description": "Brand: Acer\nModel Name: Nitro V\nScreen Size: 15.6 Inches\nColor: Black\nHard Disk Size: 512 GB\nCPU Model: Intel Core i5\nRam Memory Installed Size: 8 GB\nOperating System: Windows 11 Home\nSpecial Feature: Backlit Keyboard\nGraphics Card Description: Integrated",
+      "stock_left": 32,
+      "images": [
+        "img/product/Items_details/computer&desktop/acer nitro v/front.jpg",
+        "img/product/Items_details/computer&desktop/acer nitro v/back.jpg",
+        "img/product/Items_details/computer&desktop/acer nitro v/side1.jpg",
+        "img/product/Items_details/computer&desktop/acer nitro v/side2.jpg"
+      ]
+    },
+    {
+      "id": 8,
+      "img":"img/product/Copmuter& Desktop/product2.jpg",
+      "img_hover":"img/product/Copmuter& Desktop/product-2.jpg",
+      "name": "ASUS ROG G13CH (2023) Gaming Desktop PC, Intel Core i5-13400F, NVIDIA GeForce RTX 3050, 512GB NVMe PCIe SSD, 8GB DDR4 RAM.",
+      "price": 1079.99,
+      "category": "Pc",
+      "rating": 4.8,
+      "availability": "In stock",
+      "sku": "ASUS Gaming Tower, Core i5, Windows 11 Home",
+      "description": "Brand: ASUS\nOperating System: Windows 11 Home\nCPU Model: Core i5\nCPU Speed: 4.6 GHz\nGraphics Card Description: Dedicated\nGraphics Coprocessor: Nvidia GeForce RTX 3050\nMemory Storage Capacity: 512 GB\nMemory Slots Available: 4\nSpecific Uses For Product: Gaming\nPersonal Computer Design Type: Computer Tower",
+      "stock_left": 18,
+      "images": [
+        "img/product/Items_details/computer&desktop/asus desktop/front.jpg",
+        "img/product/Items_details/computer&desktop/asus desktop/side1.jpg",
+        "img/product/Items_details/computer&desktop/asus desktop/side2.jpg",
+        "img/product/Items_details/computer&desktop/asus desktop/side3.jpg"
+      ]
+    },
+    {
+      "id": 9,
+      "img":"img/product/Copmuter& Desktop/product3.jpg",
+      "img_hover":"img/product/Copmuter& Desktop/product-3.jpg",
+      "name": "Razer Huntsman Mini 60% Gaming Keyboard: Fast Keyboard Switches - Linear Optical Switches - Chroma RGB Lighting - PBT Keycaps - Black",
+      "price": 65.99,
+      "rating": 4.5,
+      "availability": "In stock",
+      "sku": "Razer Huntsman Mini, RGB Backlit, Compact Gaming Keyboard",
+      "description": "Brand: Razer\nCompatible Devices: Laptop, Gaming Console\nConnectivity Technology: Micro USB\nKeyboard Description: Gaming\nRecommended Uses For Product: Gaming\nSpecial Feature: Portable, USB-C Wired, Compact Keyboard, Backlit, Lighting, Detachable\nColor: Classic Black\nNumber of Keys: 61\nKeyboard Backlighting Color Support: RGB\nStyle: Huntsman Mini",
+      "stock_left": 22,
+      "images": [
+        "img/product/Items_details/computer&desktop/razar keyboard/front.jpg",
+        "img/product/Items_details/computer&desktop/razar keyboard/side1.jpg",
+        "img/product/Items_details/computer&desktop/razar keyboard/side2.jpg",
+        "img/product/Items_details/computer&desktop/razar keyboard/side3.jpg"
+      ]
+    },
+    {
+      "id": 10,
+      "img":"img/product/Copmuter& Desktop/product4.jpg",
+      "img_hover":"img/product/Copmuter& Desktop/product-4.jpg",
+      "name": "Razer Basilisk V3 Customizable Ergonomic Gaming Mouse: Fastest Gaming Mouse Switch - Chroma RGB Lighting - 26K DPI Optical Sensor - Classic Black",
+      "price": 38.19,
+      "rating": 4.6,
+      "availability": "In stock",
+     "sku": "Razer Basilisk V3, USB, Ergonomic Design, Optical Sensor",
+     "description": "Style: Basilisk V3\nBrand: Razer\nColor: Black\nConnectivity Technology: USB\nSpecial Feature: Ergonomic Design\nMovement Detection Technology: Optical",
+    "stock_left": 30,
+      "images": [
+        "img/product/Items_details/computer&desktop/razar mouse/front.jpg",
+        "img/product/Items_details/computer&desktop/razar mouse/side1.jpg",
+        "img/product/Items_details/computer&desktop/razar mouse/side2.jpg",
+        "img/product/Items_details/computer&desktop/razar mouse/side3.jpg"
+      ]
+    },
+    {
+      "id": 11,
+      "img":"img/product/Copmuter& Desktop/product5.jpg",
+      "img_hover":"img/product/Copmuter& Desktop/product-5.jpg",
+      "name": "Samsung 34' Odyssey G5 Ultra-Wide Gaming Monitor with 1000R Curved Screen, 165Hz, 1ms, FreeSync Premium, Large Display, Eye Comfort, Multiple Ports, 2020, Black",
+      "price": 289.72,
+      "rating": 4.7,
+      "availability": "In stock",
+      "sku": "Samsung 34-Inch, QHD Wide 1440p, 21:9 Aspect Ratio, Curved Screen",
+      "description": "Brand: SAMSUNG\nScreen Size: 34 Inches\nResolution: QHD Wide 1440p\nAspect Ratio: 21:9\nScreen Surface Description: Curved",
+      "stock_left": 20,
+      "images": [
+        "img/product/Items_details/computer&desktop/samsung screen/front.jpg",
+        "img/product/Items_details/computer&desktop/samsung screen/back.jpg",
+        "img/product/Items_details/computer&desktop/samsung screen/side1.jpg",
+        "img/product/Items_details/computer&desktop/samsung screen/side2.jpg"
+      ]
+    },
+    {
+      "id": 12,
+      "img":"img/product/Copmuter& Desktop/product6.jpg",
+      "img_hover":"img/product/Copmuter& Desktop/product-6.jpg",
+      "name": "CORSAIR MM700 RGB Extended Cloth Gaming Mouse Pad - 36.6\"  15.8 - 360° RGB Lighting - Two USB Port Hub - Thick Rubber - Black",
+      "price": 43.15,
+      "rating": 4,
+      "availability": "In stock",
+      "sku": "Corsair RGB Mouse Pad, Black, USB Hub, Custom Lighting",
+      "description": "Brand: Corsair\nColor: Black\nSpecial Feature: RGB Lighting, USB Hub, Customizable Lighting Profiles\nRecommended Uses For Product: Gaming\nMaterial: Rubber",
+      "stock_left": 35,
+      "images": [
+        "img/product/Items_details/computer&desktop/mousepad/front.jpg",
+        "img/product/Items_details/computer&desktop/mousepad/side1.jpg",
+        "img/product/Items_details/computer&desktop/mousepad/side2.jpg",
+        "img/product/Items_details/computer&desktop/mousepad/side3.jpg"
+      ]
+    },
+    {
+      "id": 13,
+      "img":"img/product/Copmuter& Desktop/product7.jpg",
+      "img_hover":"img/product/Copmuter& Desktop/product-7.jpg",
+      "name": "Razer BlackShark V2 X Wired Gaming Headset with 7.1 Surround Sound, 50mm Drivers, Noise Cancelling Mic Visit the Razer Store",
+      "price": 40.58,
+      "rating": 4.5,
+      "availability": "In stock",
+      "sku": "Razer Hyperclear 240g",
+      "description": "HYPERCLEAR NOISE-CANCELLING MIC — Upgraded with noise-cancelling technology, the headset’s cardioid mic actively rejects ambient noise while capturing voice perfectly. TRIFORCE 50MM DRIVERS — New, cutting-edge proprietary design divides the driver into 3 parts for the individual tuning of highs, mids, and lows — producing brighter, clearer audio with richer highs and more powerful lows. ADVANCED PASSIVE NOISE CANCELLATION — Sturdy closed earcups fully cover ears to prevent noise from leaking into the headset while its cushions provide a closer seal for more sound isolation. 240G ULTRA LIGHT BUILD — Weighing in at an airy 240g, the headset applies minimal pressure and can be worn for long hours of intense gaming without feeling fatigued. HYBRID MEMORY FOAM CUSHIONS — Its soft cushions are wrapped in a smooth fabric that reduces heat build-up and provides long-lasting comfort. 7.1 SURROUND SOUND — Accurate positional audio that lets users pinpoint intuitively where every sound is coming from. *Only available on Windows 10 64-bit.",
+      "stock_left": 42,
+      "images": [
+        "img/product/Items_details/computer&desktop/razar headest/front.jpg",
+        "img/product/Items_details/computer&desktop/razar headest/side1.jpg",
+        "img/product/Items_details/computer&desktop/razar headest/side2.jpg",
+        "img/product/Items_details/computer&desktop/razar headest/side3.jpg"
+      ]
+    },
+    {
+      "id": 14,
+      "img":"img/product/Copmuter& Desktop/product8.jpg",
+      "img_hover":"img/product/Copmuter& Desktop/product-8.jpg",
+      "name": "Razer Wolverine Ultimate Officially Licensed Xbox One Controller: 6 Remappable Buttons and Triggers - For PC, Xbox One, Xbox Series X & S - Black",
+      "price": 55.64,
+      "rating": 4.6,
+      "availability": "In stock",
+      "sku": "Razer Wolverine V2 Xbox",
+      "description": "INTERCHANGEABLE THUMBSTICKS and D PADS — Swap between optimized thumbstick heights and shapes, and quickly change between a tilting or individual D Pad buttons. 6 REMAPPABLE MULTI-FUNCTION BUTTONS — Comes with an additional 2 remappable multi-function bumpers and 4 multi-function triggers. HAIR TRIGGER MODE plus TRIGGER STOPS — For a competitive edge, Automatic Hair Trigger Mode via two slide-locks on the underside of the controller that greatly reduce travel distance to the main triggers, enabling an ultra-fast rate of fire. CHROMA RGB LIGHTING — Show off with Razer Chroma's wide selection of lighting effects and stunning profiles, completely customizable through Razer Synapse for Xbox. ERGONOMIC DESIGN — Stays comfortable after hours of practice, with interchangeable parts so it adapts to different playstyles. DESIGNED FOR XBOX — Officially licensed and developed alongside Xbox to deliver the best gaming experience possible.",
+      "stock_left": 35,
+      "images": [
+        "img/product/Items_details/computer&desktop/xbox controller/front.jpg",
+        "img/product/Items_details/computer&desktop/xbox controller/side1.jpg",
+        "img/product/Items_details/computer&desktop/xbox controller/side2.jpg",
+        "img/product/Items_details/computer&desktop/xbox controller/side3.jpg"
+      ]
+    },
+    {
+      "id": 15,
+      "img":"img/product/Copmuter& Desktop/product9.jpg",
+      "img_hover":"img/product/Copmuter& Desktop/product-9.jpg",
+      "name": "Razer Seiren V3 Mini USB Microphone: Condenser Mic - Supercardioid Pickup Pattern - Tap-to-Mute Sensor with LED Indicator - Ultra Compact - PC, Discord, Black",
+      "price": 41.99,
+      "rating": 4.5,
+      "availability": "In stock",
+      "sku": "Razer Seiren V3 Mini",
+      "description": "Recommended Uses For Product: Streaming, Video Conference, Singing, Karaoke, Gaming. Built-in Shock Absorber: Reduces vibration for clearer audio. Supercardioid Pickup Pattern: Captures sound from a focused area to minimize background noise. Plug-and-Play Design: Easy setup with USB Type-A connectivity. Condenser Mic: Delivers crisp, high-quality sound. Tap-to-Mute Sensor with LED Indicator: Instantly mute the mic with a visual indicator. Compatible Devices: Laptop, Personal Computer.",
+      "stock_left": 25,
+      "images": [
+        "img/product/Items_details/computer&desktop/razar mice/front.jpg",
+        "img/product/Items_details/computer&desktop/razar mice/back.jpg",
+        "img/product/Items_details/computer&desktop/razar mice/side.jpg",
+        "img/product/Items_details/computer&desktop/razar mice/box.jpg"
+      ]
+    },
+    {
+      "id": 16,
+      "img": "img/product/Phones & Tablets/product1.jpg",
+      "img_hover": "img/product/Phones & Tablets/product-1.jpg",
+      "name": "Apple iPhone 11, US Version, 256GB, Red for AT&T (Renewed)",
+      "price": 579.99,
+      "category": "phones",
+      "rating": 4.7,
+      "availability": "In stock",
+      "sku": "Apple iPhone 15 128GB",
+      "description": "Brand: Apple. Model Name: iPhone 15. Operating System: iOS 17.0.2. Ram Memory Installed Size: 128 GB. Memory Storage Capacity: 128 GB. Screen Size: 6.1 Inches. Wireless Carrier: Tracfone. Cellular Technology: 5G. Connectivity Technology: Wireless. Color: Yellow. A powerful and stylish smartphone with iOS 17, 5G connectivity, and vibrant color options.",
+      "stock_left": 66,
+      "images": [
+        "img/product/Items_details/phones&tablets/iphone 15/front.jpg",
+        "img/product/Items_details/phones&tablets/iphone 15/back.jpg",
+        "img/product/Items_details/phones&tablets/iphone 15/side.jpg",
+        "img/product/Items_details/phones&tablets/iphone 15/all side.jpg"
+      ]
+    },
+    {
+      "id": 17,
+      "img": "img/product/Phones & Tablets/product2.jpg",
+      "img_hover": "img/product/Phones & Tablets/product-2.jpg",
+      "name": "SAMSUNG Galaxy S22 5G, US Version, 256GB, Phantom Black - Verizon (Renewed)",
+      "price": 286.99,
+      "category": "phones",
+      "rating": 4.6,
+      "availability": "In stock",
+      "sku": "Samsung Galaxy S22 256GB",
+      "description": "Brand: SAMSUNG. Model Name: Galaxy S22 5G. Operating System: Android. Memory Storage Capacity: 256 GB. Screen Size: 6.1 Inches. Resolution: 2560 x 1440. Connectivity Technology: Wi-Fi. Wireless Carrier: Verizon Wireless. Cellular Technology: 5G. Color: Phantom Black. A sleek, high-performance smartphone with 5G connectivity and a stunning display for enhanced user experience.",
+      "stock_left": 55,
+      "images": [
+        "img/product/Items_details/phones&tablets/samsung s20 5G/front.jpg",
+        "img/product/Items_details/phones&tablets/samsung s20 5G/back.jpg",
+        "img/product/Items_details/phones&tablets/samsung s20 5G/side.jpg",
+        "img/product/Items_details/phones&tablets/samsung s20 5G/all side.jpg"
+      ]
+    },
+    {
+      "id": 18,
+      "img": "img/product/Phones & Tablets/product3.jpg",
+      "img_hover": "img/product/Phones & Tablets/product-3.jpg",
+      "name": "OnePlus 10 Pro 5G Dual-SIM 128GB ROM + 8GB RAM (GSM Only | No CDMA) Factory Unlocked 5G Smartphone Global Version - Volcanic Black",
+      "price": 579.99,
+      "category": "phones",
+      "rating": 4.5,
+      "availability": "In stock",
+      "sku": "OnePlus 10 Pro 128GB",
+      "description": "Brand: OnePlus. Model Name: 10 Pro. Operating System: Android. RAM: 8 GB. Storage: 128 GB. CPU Speed: 3 GHz. Screen Size: 6.7 Inches. Resolution: 2560 x 1440. Refresh Rate: 120 or 144 Hz. A high-performance smartphone with a large, sharp display and smooth refresh rates for gaming and productivity.",
+      "stock_left": 20,
+      "images": [
+        "img/product/Items_details/phones&tablets/oneplus/front.jpg",
+        "img/product/Items_details/phones&tablets/oneplus/back.jpg",
+        "img/product/Items_details/phones&tablets/oneplus/side.jpg",
+        "img/product/Items_details/phones&tablets/oneplus/all side.jpg"
+      ]
+    },
+    {
+      "id": 19,
+      "img": "img/product/Phones & Tablets/product4.jpg",
+      "img_hover": "img/product/Phones & Tablets/product-4.jpg",
+      "name": "Google Pixel 7a - Unlocked Android Cell Phone - Smartphone with Wide Angle Lens and 24-Hour Battery - 128 GB - Sea",
+      "price": 322.99,
+      "category": "phones",
+      "rating": 4.6,
+      "availability": "In stock",
+      "sku": "Google Pixel 7a 128GB",
+      "description": "Brand: Google. Model Name: Pixel 7a. Operating System: Android 13.0. RAM: 8 GB. Storage: 128 GB. Screen Size: 6.1 Inches. Resolution: 1080 x 2400. Refresh Rate: 90 Hz. Wireless Carrier: Unlocked for All Carriers. Cellular Technology: 5G. A high-performance smartphone with a smooth display and powerful features, optimized for Android enthusiasts.",
+      "stock_left": 45,
+      "images": [
+        "img/product/Items_details/phones&tablets/pixle 7/front.jpg",
+        "img/product/Items_details/phones&tablets/pixle 7/back.jpg",
+        "img/product/Items_details/phones&tablets/pixle 7/side.jpg",
+        "img/product/Items_details/phones&tablets/pixle 7/all side.jpg"
+      ]
+    },
+    {
+      "id": 20,
+      "img": "img/product/Phones & Tablets/product5.jpg",
+      "img_hover": "img/product/Phones & Tablets/product-5.jpg",
+      "name": "SAMSUNG Galaxy Tab A9 4G LTE (64GB, 4GB, Cellular) 8.7' Android Tablet, Octa-core (6nm), Dual Speakers",
+      "price": 129.99,
+      "category": "tablets",
+      "rating": 4.3,
+      "availability": "In stock",
+      "sku": "Samsung Galaxy Tab 64GB",
+      "description": "Brand: Samsung. Model Name: Galaxy Tab. Memory Storage Capacity: 64 GB. Screen Size: 8.7 Inches. Display Resolution Maximum: 1920 Pixels. A compact and powerful tablet with a high-resolution display and ample storage for apps and media.",
+      "stock_left": 30,
+      "images": [
+        "img/product/Items_details/phones&tablets/Tab a9/front.jpg",
+        "img/product/Items_details/phones&tablets/Tab a9/back.jpg",
+        "img/product/Items_details/phones&tablets/Tab a9/side.jpg",
+        "img/product/Items_details/phones&tablets/Tab a9/all side.jpg"
+      ]
+    },
+    {
+      "id": 21,
+      "img": "img/product/Phones & Tablets/product6.jpg",
+      "img_hover": "img/product/Phones & Tablets/product-6.jpg",
+      "name": "Apple iPad Pro 13-Inch (M4): Built for Apple Intelligence, Ultra Retina XDR Display, 256GB, 12MP Front/Back Camera, Wi-Fi 6E, Face ID, Space Black",
+      "price": 1011.00,
+      "category": "tablets",
+      "rating": 4.8,
+      "availability": "In stock",
+      "sku": "Apple Processor Space Black",
+      "description": "Brand: Apple. Color: Space Black. Age Range: Adult. Hardware Interface: USB. Processor Description: ApplePI. A high-performance Apple processor with USB connectivity, designed for seamless performance and elegant in its Space Black finish.",
+      "stock_left": 25,
+      "images": [
+        "img/product/Items_details/phones&tablets/ipad pro/front.jpg",
+        "img/product/Items_details/phones&tablets/ipad pro/back.jpg",
+        "img/product/Items_details/phones&tablets/ipad pro/side.jpg",
+        "img/product/Items_details/phones&tablets/ipad pro/all side.jpg"
+      ]
+    },
+    {
+      "id": 22,
+      "img": "img/product/Phones & Tablets/product7.jpg",
+      "img_hover": "img/product/Phones & Tablets/product-7.jpg",
+      "name": "Lenovo Tab M10 FHD Plus (2nd Gen) - 2021 - Kids Mode Enablement - 10.3' FHD - Front 5MP & Rear 8MP Camera - 2GB Memory - 32GB Storage - Android 9 (Pie) or Later,Grey",
+      "price": 120.99,
+      "category": "tablets",
+      "rating": 4.4,
+      "availability": "In stock",
+      "sku": "Lenovo Tab M10 FHD Plus",
+      "description": "Brand: Lenovo. Model Name: Tab M10 FHD Plus. Memory Storage Capacity: 32 GB. Screen Size: 10.3 Inches. Display Resolution Maximum: 1920 x 1200. A sleek tablet with a full HD display, ideal for streaming, browsing, and everyday tasks with ample storage and clear visuals.",
+      "stock_left": 40,
+      "images": [
+        "img/product/Items_details/phones&tablets/Tab M10/front.jpg",
+        "img/product/Items_details/phones&tablets/Tab M10/back.jpg",
+        "img/product/Items_details/phones&tablets/Tab M10/side.jpg",
+        "img/product/Items_details/phones&tablets/Tab M10/all side.jpg"
+      ]
+    },
+    {
+      "id": 23,
+      "img": "img/product/Phones & Tablets/product8.jpg",
+      "img_hover": "img/product/Phones & Tablets/product-8.jpg",
+      "name": "Xiaomi Redmi Pad Pro WiFi Version 12.1 Octa Core Global Rom 10000 mAh Bluetooth 5.3 8Mp Dual Camera (Graphite Gray, 256Gb + 8Gb)",
+      "price": 269.99,
+      "category": "tablets",
+      "rating": 4.5,
+      "availability": "In stock",
+      "sku": "Xiaomi Redmi Pad PRO",
+      "description": "Brand: Xiaomi. Model Name: Redmi Pad PRO. Memory Storage Capacity: 8 GB. Screen Size: 12.1 Inches. Display Resolution Maximum: 2560 x 1600. A high-performance tablet designed for entertainment, work, and browsing with vibrant visuals and ample memory for multitasking.",
+      "stock_left": 30,
+      "images": [
+        "img/product/Items_details/phones&tablets/redmi tab/front.jpg",
+        "img/product/Items_details/phones&tablets/redmi tab/back.jpg",
+        "img/product/Items_details/phones&tablets/redmi tab/side.jpg",
+        "img/product/Items_details/phones&tablets/redmi tab/all side.jpg"
+      ]
+    }
+  ]
